@@ -1,13 +1,13 @@
 ---
 title: RTX 5090でNemotron 9B — vLLMベンチマークとTRT-LLM比較
 tags:
-  - gpu
-  - nvidia
-  - deeplearning
-  - vllm
+  - GPU
+  - NVIDIA
+  - DeepLearning
+  - vLLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 1c1546f01f6b9e550bc5
 organization_url_name: null
 slide: false
 ignorePublish: false

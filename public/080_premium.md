@@ -1,13 +1,13 @@
 ---
 title: Cloudflare Tunnel実践入門：自宅AIサーバーをポート開放なしでセキュアに公開する
 tags:
-  - webdev
-  - fastapi
+  - WebDev
   - infrastructure
   - cloudflare
+  - FastAPI
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: ff3c15f4802d0afd1f53
 organization_url_name: null
 slide: false
 ignorePublish: false

@@ -1,13 +1,13 @@
 ---
 title: OpenAIがAstral（uv / Ruff）を買収 — その意味を推論する
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:13+09:00'
+id: 4ae7326c08321f239c5b
 organization_url_name: null
 slide: false
 ignorePublish: false

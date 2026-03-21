@@ -1,13 +1,13 @@
 ---
 title: RTX 5090 + WSL2で構築する個人AI開発環境 — GPU 32GBをフル活用する実践構成
 tags:
-  - gpu
-  - nvidia
-  - deeplearning
-  - vllm
+  - GPU
+  - NVIDIA
+  - DeepLearning
+  - vLLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:12+09:00'
+id: 480793d82bfb92daaecb
 organization_url_name: null
 slide: false
 ignorePublish: false

@@ -1,13 +1,13 @@
 ---
 title: RTX 5090 1枚で13プロジェクトを回す個人開発者のポートフォリオ戦略
 tags:
-  - gpu
-  - nvidia
-  - deeplearning
-  - vllm
+  - GPU
+  - NVIDIA
+  - DeepLearning
+  - vLLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:13+09:00'
+id: da4a08a0ba7eb06f442f
 organization_url_name: null
 slide: false
 ignorePublish: false

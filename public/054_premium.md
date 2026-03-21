@@ -1,13 +1,13 @@
 ---
 title: ローカルLLMのためのハードウェア選定：VRAMの壁を越えるGPU・CPU・メモリ構成の実践
 tags:
-  - gpu
-  - nvidia
-  - deeplearning
-  - vllm
+  - GPU
+  - NVIDIA
+  - DeepLearning
+  - vLLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: b9503c74aae7a733da44
 organization_url_name: null
 slide: false
 ignorePublish: false

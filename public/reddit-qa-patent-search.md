@@ -1,13 +1,13 @@
 ---
 title: 特許検索AIをReddit r/LocalLLaMAに投稿したら65 upvoteと20件超の質問が来た話
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 3681a7fc187d6d902810
 organization_url_name: null
 slide: false
 ignorePublish: false

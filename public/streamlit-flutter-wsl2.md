@@ -1,13 +1,13 @@
 ---
 title: Streamlit × Flutter双方向連携をWSL2で実現する
 tags:
-  - webdev
-  - fastapi
+  - WebDev
   - infrastructure
   - cloudflare
+  - FastAPI
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:13+09:00'
+id: fb1ea862b27d27c4b9f7
 organization_url_name: null
 slide: false
 ignorePublish: false

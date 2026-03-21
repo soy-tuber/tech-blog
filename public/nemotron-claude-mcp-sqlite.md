@@ -1,13 +1,13 @@
 ---
 title: SQLite開発を劇的に効率化！Claude Codeで使える公式MCPサーバー活用術
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:12+09:00'
+id: 1d0298fe150c2997fa02
 organization_url_name: null
 slide: false
 ignorePublish: false

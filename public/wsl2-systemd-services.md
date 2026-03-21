@@ -1,13 +1,13 @@
 ---
 title: WSL2でsystemdサービスを使いvLLM・Flask・cronを自動起動する運用術
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:12+09:00'
+id: a567dd86df40007d076c
 organization_url_name: null
 slide: false
 ignorePublish: false

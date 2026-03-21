@@ -1,13 +1,13 @@
 ---
 title: Cloudflare Tunnel + Caddyで複数のWebアプリを自宅サーバーから公開する
 tags:
-  - webdev
-  - fastapi
+  - WebDev
   - infrastructure
   - cloudflare
+  - FastAPI
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 8464ed39d334ca145188
 organization_url_name: null
 slide: false
 ignorePublish: false

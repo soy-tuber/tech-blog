@@ -1,13 +1,13 @@
 ---
 title: Nemotron 9B日本語をローカルで動かす — Mamba SSM・Thinkingモード対応
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:13+09:00'
+id: 26be13f9fb14c8f0faa1
 organization_url_name: null
 slide: false
 ignorePublish: false

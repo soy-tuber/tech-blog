@@ -1,13 +1,13 @@
 ---
 title: PythonでGoogleドキュメントをAIに読み込ませる — Drive API最小権限設定
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 975da370f04648b5b38f
 organization_url_name: null
 slide: false
 ignorePublish: false

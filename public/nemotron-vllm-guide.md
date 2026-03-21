@@ -1,13 +1,13 @@
 ---
 title: Nemotron 9BをvLLMで動かしOpenAI互換APIで使う実践ガイド
 tags:
-  - gpu
-  - nvidia
-  - deeplearning
-  - vllm
+  - GPU
+  - NVIDIA
+  - DeepLearning
+  - vLLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 65edff65c1fa1dc0f340
 organization_url_name: null
 slide: false
 ignorePublish: false

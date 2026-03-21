@@ -1,13 +1,13 @@
 ---
 title: Gemini 2.5 Flash × Nemotron 9B — クラウドLLMとローカルLLMの最適な役割分担
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 9b17f25c5df995da01d0
 organization_url_name: null
 slide: false
 ignorePublish: false

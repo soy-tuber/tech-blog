@@ -1,13 +1,13 @@
 ---
 title: uv入門：pip/venvを置き換えるPython高速パッケージマネージャ
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:12+09:00'
+id: 89481f8ed87214dbb899
 organization_url_name: null
 slide: false
 ignorePublish: false

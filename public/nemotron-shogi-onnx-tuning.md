@@ -1,13 +1,13 @@
 ---
 title: 20BモデルのONNX変換とパラメータチューニングで学んだ"対局テスト"の実践ノウハウ
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:12+09:00'
+id: 9912bb713a029fe5394f
 organization_url_name: null
 slide: false
 ignorePublish: false

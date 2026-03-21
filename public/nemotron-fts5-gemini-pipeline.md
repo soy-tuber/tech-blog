@@ -1,13 +1,13 @@
 ---
 title: Global MCPにsqliteサーバーを追加したものの、PatentLLM分析で0件ヒット！FTS5のキーワード調整とGemini分析の連携で解決
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: f4b2dc49d5899398d9ba
 organization_url_name: null
 slide: false
 ignorePublish: false

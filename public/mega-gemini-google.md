@@ -1,13 +1,13 @@
 ---
 title: Gemini APIで会話データを資産化 — 履歴エクスポート・RAG・Streamlit
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 027a7811a54bab953493
 organization_url_name: null
 slide: false
 ignorePublish: false

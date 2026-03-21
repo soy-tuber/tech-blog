@@ -1,13 +1,13 @@
 ---
 title: Claude Codeのhooks機能でポート衝突・危険コマンドを事前に自動防止する
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 4fb3882eebff0f930898
 organization_url_name: null
 slide: false
 ignorePublish: false

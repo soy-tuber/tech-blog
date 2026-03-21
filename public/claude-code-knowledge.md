@@ -1,13 +1,13 @@
 ---
 title: Claude Codeのトークン消費を削減する — FTS5ナレッジDB + Tier索引設計
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 08f218b43f8f17bc3137
 organization_url_name: null
 slide: false
 ignorePublish: false

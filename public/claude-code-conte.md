@@ -1,13 +1,13 @@
 ---
 title: コント：Claude Codeに取り憑かれた男
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 570edb58d50e67647ba1
 organization_url_name: null
 slide: false
 ignorePublish: false

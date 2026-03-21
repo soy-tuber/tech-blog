@@ -1,13 +1,13 @@
 ---
 title: Claude Code + Gemini CLIの使用履歴をcronで毎朝自動集計する日報システム
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 07fba78b68e2311c617c
 organization_url_name: null
 slide: false
 ignorePublish: false

@@ -1,13 +1,13 @@
 ---
 title: 判例PDFをRAGで検索する — Gemini + SQLite FTS5による法務AI検索システム
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 852bcd3fbdf4666b4f3d
 organization_url_name: null
 slide: false
 ignorePublish: false

@@ -1,13 +1,13 @@
 ---
 title: Claude Code実践ガイド：Opus 4.6によるデバッグ・テスト自動化・CUDA環境構築
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 38a124f67ec19c45c345
 organization_url_name: null
 slide: false
 ignorePublish: false

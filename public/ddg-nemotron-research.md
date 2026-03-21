@@ -1,13 +1,13 @@
 ---
 title: DuckDuckGo検索 + ローカルLLMで作る無料リサーチエージェント
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: ff94970395aeca717dc5
 organization_url_name: null
 slide: false
 ignorePublish: false

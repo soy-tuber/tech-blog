@@ -1,13 +1,13 @@
 ---
 title: AI開発スタックを支えるOSSの系譜：その起源と作り手たち
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 05a6ccc8e68dce87aa74
 organization_url_name: null
 slide: false
 ignorePublish: false

@@ -1,13 +1,13 @@
 ---
 title: FTS5で354万件の特許データを高速検索する
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 895faa864e89c85f1ef1
 organization_url_name: null
 slide: false
 ignorePublish: false

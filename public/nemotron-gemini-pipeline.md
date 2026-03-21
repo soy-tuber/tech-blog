@@ -1,13 +1,13 @@
 ---
 title: ローカル×クラウドLLM 2段階パイプライン — Nemotron + Gemini Flash
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:13+09:00'
+id: 104d4b22ea276d903a8d
 organization_url_name: null
 slide: false
 ignorePublish: false

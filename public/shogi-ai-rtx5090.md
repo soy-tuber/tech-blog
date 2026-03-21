@@ -1,13 +1,13 @@
 ---
 title: RTX 5090で将棋AI — TensorRT FP8量子化とFloodgate実戦の記録
 tags:
-  - gpu
-  - nvidia
-  - deeplearning
-  - vllm
+  - GPU
+  - NVIDIA
+  - DeepLearning
+  - vLLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:14+09:00'
+id: f8b3af4379a47124bcd6
 organization_url_name: null
 slide: false
 ignorePublish: false

@@ -1,13 +1,13 @@
 ---
 title: Coders at Work 全15人インデックス — プログラミングの巨人たちへのインタビュー集
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:12+09:00'
+id: f89d42f1437c670d4618
 organization_url_name: null
 slide: false
 ignorePublish: false

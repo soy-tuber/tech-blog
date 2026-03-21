@@ -1,13 +1,13 @@
 ---
 title: Minecraft NPCにローカルLLMで脳を実装 — Nemotron + Mineflayer
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: 37671e31ab1f50256b2b
 organization_url_name: null
 slide: false
 ignorePublish: false

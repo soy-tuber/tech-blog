@@ -1,11 +1,11 @@
 ---
 title: 「やる気」に頼るのをやめると、才能は開花する。天才数学者・岡潔が遺した「春の心」を巡る7つの知恵
 tags:
+  - プログラミング
   - essay
-  - programming
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:13+09:00'
+id: 57bcaf71c748e79402ff
 organization_url_name: null
 slide: false
 ignorePublish: false

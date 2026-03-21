@@ -1,13 +1,13 @@
 ---
 title: SQLite・JSONL・XML・TSVの使い分け — PatentLLMのデータ整理術
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 53dd04ee608f7fa646ea
 organization_url_name: null
 slide: false
 ignorePublish: false

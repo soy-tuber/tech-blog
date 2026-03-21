@@ -1,13 +1,13 @@
 ---
 title: google-generativeai → google-genai 移行ガイド
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: e60ceb82e13d336f2468
 organization_url_name: null
 slide: false
 ignorePublish: false

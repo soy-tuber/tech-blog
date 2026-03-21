@@ -1,13 +1,13 @@
 ---
 title: PatentLLMにStripe Checkout課金を実装した話
 tags:
-  - webdev
-  - fastapi
+  - WebDev
   - infrastructure
   - cloudflare
+  - FastAPI
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:11+09:00'
+id: c46a20b9ffff031857e6
 organization_url_name: null
 slide: false
 ignorePublish: false

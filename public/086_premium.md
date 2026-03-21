@@ -1,13 +1,13 @@
 ---
 title: RcloneでGoogle Drive自動バックアップ — ヘッドレスOAuth認証とsystemd設定
 tags:
-  - webdev
-  - fastapi
+  - WebDev
   - infrastructure
   - cloudflare
+  - FastAPI
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: c74d7b63712740fc22ec
 organization_url_name: null
 slide: false
 ignorePublish: false

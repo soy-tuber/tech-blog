@@ -1,13 +1,13 @@
 ---
 title: LoRAもFTも要らない時代：蒸留済みモデルとどう向き合うか
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 44969ef8432668f43c0f
 organization_url_name: null
 slide: false
 ignorePublish: false

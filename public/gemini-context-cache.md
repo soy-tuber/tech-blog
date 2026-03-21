@@ -1,13 +1,13 @@
 ---
 title: Gemini Context Cachingで大規模ドキュメント分析のAPI費用を削減する
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: d8792c225f58392b5727
 organization_url_name: null
 slide: false
 ignorePublish: false

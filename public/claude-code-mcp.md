@@ -1,13 +1,13 @@
 ---
 title: Claude CodeのMCPサーバー活用術
 tags:
-  - python
-  - devtools
-  - cli
+  - Python
+  - CLI
+  - DevTools
   - productivity
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: df27981e0cfcbd705f0e
 organization_url_name: null
 slide: false
 ignorePublish: false

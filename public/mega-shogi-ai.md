@@ -1,13 +1,13 @@
 ---
 title: 将棋AIに触れて得たもの：Floodgate 1位までの道のりと、蒸留モデルとの向き合い方
 tags:
-  - ai
-  - machinelearning
-  - llm
-  - python
+  - Python
+  - MachineLearning
+  - AI
+  - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:41:10+09:00'
+id: 61133c6c1307a40fefb4
 organization_url_name: null
 slide: false
 ignorePublish: false
