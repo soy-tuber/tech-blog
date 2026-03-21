@@ -1,14 +1,14 @@
 ---
 title: GTC 2026が静かに告げた本当の転換点──NVIDIAはなぜ「オープン」に賭けたのか
 tags:
+  - Linux
+  - GPU
   - NVIDIA
   - OpenSource
-  - Linux
   - AI
-  - GPU
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-21T21:35:45+09:00'
+id: a6a73e798d08eaafeece
 organization_url_name: null
 slide: false
 ignorePublish: false
