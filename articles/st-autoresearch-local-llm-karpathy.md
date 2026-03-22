@@ -1,0 +1,99 @@
+---
+title: "KarpathyのautoresearchをローカルLLMで動かす — コスト$0の自律AI研究"
+emoji: "🔬"
+type: "tech"
+topics: ["LLM", "機械学習", "GPU", "Python", "ollama"]
+published: true
+canonical_url: "https://media.patentllm.org/blog/ai/autoresearch-local-llm-karpathy"
+---
+
+## はじめに
+
+Andrej Karpathy（OpenAI共同創設者）が公開したautoresearchは、「LLMに自分でML研究をさせる」という野心的な実験です。LLMがGPTの訓練スクリプトを自律的に修正し、5分間の実験を実行、val_bpb（バリデーション損失）が改善すれば採用、悪化すれば破棄——これを無限ループで回し続けます。
+
+オリジナルはClaude Code（クラウドAPI）を研究者として使いますが、[SohniSwatantraによるフォーク版](https://github.com/SohniSwatantra/autoresearch-local-llm)はこれをQwen 3.5 9B + ollamaに置き換え、単一GPUで完結させています。APIキー不要、クラウド依存なし、実験あたりのコスト$0。
+
+## アーキテクチャ：1台のGPUでLLMと訓練を共存
+
+```
+GPU (48GB VRAM)
+├── Qwen 3.5 9B via ollama (~12GB)
+└── GPT training via train.py (~35GB)
+```
+
+| コンポーネント | オリジナル | フォーク版 |
+|---|---|---|
+| AI Researcher | Claude Code (API) | Qwen 3.5 9B (local) |
+| Depth | 8層 | 4層 |
+| Device batch size | 128 | 64 |
+| Total batch tokens | 524K | 65K |
+
+## 自律研究ループの仕組み
+
+### ステップ1: LLMに修正案を生成させる
+
+agent.pyがtrain.pyの現在のコードと実験履歴をQwen 3.5に送信。LLMはval_bpbを下げるための具体的なコード修正を提案します。
+
+### ステップ2: 構文検証とgit commit
+
+`ast.parse()`で構文チェック。有効ならtrain.pyを上書きしてgit commit。
+
+### ステップ3: 5分間の実験実行
+
+`uv run train.py`を実行。タイムアウトは10分。
+
+### ステップ4: 結果判定
+
+- val_bpbが改善 → **keep**（ブランチを前進）
+- val_bpbが同等以下 → **discard**（`git reset --hard`）
+- クラッシュ → **crash**（ログを次のプロンプトに含めて修正を試行）
+
+3回連続クラッシュでベースラインにリセットするフェイルセーフ機構も備えています。
+
+## agent.pyの設計
+
+約250行の単一ファイルで、LLMの応答からPythonコードブロックを正規表現で抽出し、`ast.parse()`で検証するパイプラインが秀逸です。
+
+```python
+def extract_code_from_response(response):
+    blocks = re.findall(r'```(?:python)?\s*\n(.*?)```', response, re.DOTALL)
+    if blocks:
+        return max(blocks, key=len)  # 最長のコードブロックを採用
+```
+
+## コスト比較
+
+| 構成 | 実験あたりコスト | 100実験 |
+|---|---|---|
+| オリジナル（Claude Code API） | ~$0.05-0.20 | $5-20 |
+| フォーク版（Nosana Pro 6000） | $0.08 | ~$8 |
+| フォーク版（自前GPU） | $0 | $0 |
+
+## program.md — 研究哲学
+
+Karpathyのオリジナルprogram.mdには重要な設計哲学が含まれています：
+
+- **「NEVER STOP」** — 人間が手動で停止するまで無限に実験を続ける
+- **簡潔性基準** — 0.001の改善でも20行の複雑なコードが必要なら採用しない
+- **ユーザーは寝ている前提** — 1実験5分で1時間に12回、8時間睡眠中に約100実験を自動実行
+
+## セットアップ
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+ollama serve &
+ollama pull qwen3.5:9b
+
+git clone https://github.com/SohniSwatantra/autoresearch-local-llm.git
+cd autoresearch-local-llm
+pip install uv && uv sync
+bash run_pipeline.sh
+```
+
+24GB以上のVRAMが必要（48GB推奨）。
+
+## リンク
+
+- フォーク: https://github.com/SohniSwatantra/autoresearch-local-llm
+- オリジナル: https://github.com/karpathy/autoresearch
+- 詳細記事: https://media.patentllm.org/blog/ai/autoresearch-local-llm-karpathy
