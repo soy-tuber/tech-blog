@@ -1,10 +1,10 @@
 ---
 title: 'AI開発を加速するデータ準備とセキュリティ：オープンソースツールの活用術'
 tags:
-  - name: "python"
-  - name: "開発環境"
-  - name: "cli"
-  - name: "vscode"
+  - python
+  - 開発環境
+  - cli
+  - vscode
 private: false
 updated_at: ''
 id: null

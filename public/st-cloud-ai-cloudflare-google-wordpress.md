@@ -1,10 +1,10 @@
 ---
 title: 'クラウドとAIの新たな連携：Cloudflare Workers AI、GoogleのOSSセキュリティ、WordPressでのAI活用'
 tags:
-  - name: "fastapi"
-  - name: "cloudflare"
-  - name: "infrastructure"
-  - name: "linux"
+  - fastapi
+  - cloudflare
+  - infrastructure
+  - linux
 private: false
 updated_at: ''
 id: null

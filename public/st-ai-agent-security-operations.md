@@ -1,10 +1,10 @@
 ---
 title: 'AIエージェントの安全性と運用：プロンプトインジェクション対策と監視の最前線'
 tags:
-  - name: "ai"
-  - name: "machinelearning"
-  - name: "llm"
-  - name: "python"
+  - ai
+  - machinelearning
+  - llm
+  - python
 private: false
 updated_at: ''
 id: null

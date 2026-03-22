@@ -1,10 +1,10 @@
 ---
 title: '2026年、ローカルAIが進化！オフラインデバイスからRTXでの大規模推論まで'
 tags:
-  - name: "gpu"
-  - name: "nvidia"
-  - name: "deeplearning"
-  - name: "vllm"
+  - gpu
+  - nvidia
+  - deeplearning
+  - vllm
 private: false
 updated_at: ''
 id: null

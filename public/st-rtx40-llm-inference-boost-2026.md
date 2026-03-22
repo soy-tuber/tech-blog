@@ -1,10 +1,10 @@
 ---
 title: 'RTX 40シリーズでLLM爆速！個人開発者のための推論最適化完全ガイド【2026年最新版】'
 tags:
-  - name: "gpu"
-  - name: "nvidia"
-  - name: "deeplearning"
-  - name: "vllm"
+  - gpu
+  - nvidia
+  - deeplearning
+  - vllm
 private: false
 updated_at: ''
 id: null

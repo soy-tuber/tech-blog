@@ -1,10 +1,10 @@
 ---
 title: 'AIが問いかけるインターネットの未来：自由、質の低下、そしてコンテンツの信頼性'
 tags:
-  - name: "fastapi"
-  - name: "cloudflare"
-  - name: "infrastructure"
-  - name: "linux"
+  - fastapi
+  - cloudflare
+  - infrastructure
+  - linux
 private: false
 updated_at: ''
 id: null

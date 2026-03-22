@@ -1,10 +1,10 @@
 ---
 title: '次世代LLM、小型・高速モデルと時間推論の深層：Gemini 3.1 Flash-Lite、GPT-5.4 mini/nano'
 tags:
-  - name: "llm"
-  - name: "ai"
-  - name: "nlp"
-  - name: "python"
+  - llm
+  - ai
+  - nlp
+  - python
 private: false
 updated_at: ''
 id: null
