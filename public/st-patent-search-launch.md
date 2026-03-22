@@ -1,5 +1,5 @@
 ---
-title: PatentLLM: 350万件の米国特許を無料検索できるエンジンを作った
+title: 'PatentLLM: 350万件の米国特許を無料検索できるエンジンを作った'
 tags:
   - python
   - devtools
