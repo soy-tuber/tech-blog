@@ -17,7 +17,7 @@ collections:
     permalink: /articles/:slug/
 defaults:
   - scope:
-      path: "articles"
+      path: ""
       type: "articles"
     values:
       layout: "article"
