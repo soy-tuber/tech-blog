@@ -1,0 +1,23 @@
+title: "/通喵千問 Tech Blog"
+description: "Patent x AI technical insights — GPU inference, local LLM, and developer tools"
+url: "https://soy-tuber.github.io"
+baseurl: "/tech-blog"
+theme: minima
+markdown: kramdown
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - qiita.config.json
+  - public
+  - books
+collections:
+  articles:
+    output: true
+    permalink: /articles/:slug/
+defaults:
+  - scope:
+      path: "articles"
+      type: "articles"
+    values:
+      layout: "article"

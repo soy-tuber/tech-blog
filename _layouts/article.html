@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — /通喵千問</title>
+  {% if page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
+  <meta name="robots" content="noindex, follow">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 16px; background: #fafafa; color: #333; line-height: 1.8; }
+    a { color: #1a73e8; }
+    h1 { font-size: 1.4em; margin-bottom: 16px; }
+    h2 { font-size: 1.2em; margin: 24px 0 12px; border-left: 4px solid #1a73e8; padding-left: 10px; }
+    h3 { font-size: 1.05em; margin: 20px 0 8px; }
+    pre { background: #1e1e1e; color: #d4d4d4; padding: 16px; border-radius: 6px; overflow-x: auto; font-size: 0.85em; margin: 12px 0; }
+    code { font-family: "Fira Code", monospace; }
+    p { margin: 8px 0; }
+    ul, ol { margin: 8px 0 8px 24px; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 24px 0; }
+    .header { border-bottom: 2px solid #333; padding-bottom: 12px; margin-bottom: 24px; display: flex; justify-content: space-between; align-items: center; }
+    .header a { color: #333; text-decoration: none; font-weight: bold; }
+    .meta { font-size: 0.85em; color: #666; margin-bottom: 16px; }
+    .canonical { background: #e8f0fe; padding: 10px 14px; border-radius: 6px; font-size: 0.85em; margin-bottom: 20px; }
+    footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid #ddd; text-align: center; font-size: 0.8em; color: #999; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a href="https://media.patentllm.org/" style="font-size:0.8em;">media.patentllm.org →</a>
+  </div>
+  {% if page.canonical_url %}
+  <div class="canonical">
+    📖 Original: <a href="{{ page.canonical_url }}">{{ page.canonical_url }}</a>
+  </div>
+  {% endif %}
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="meta">
+      {% if page.topics %}{% for t in page.topics %}<span style="background:#eee;padding:2px 8px;border-radius:3px;margin-right:4px;">{{ t }}</span>{% endfor %}{% endif %}
+    </div>
+    {{ content }}
+  </article>
+  <footer>&copy; 2026 soy-tuber | <a href="https://media.patentllm.org/">PatentLLM Tech Blog</a></footer>
+</body>
+</html>
