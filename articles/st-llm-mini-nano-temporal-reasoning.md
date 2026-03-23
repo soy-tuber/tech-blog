@@ -3,7 +3,7 @@ title: "次世代LLM、小型・高速モデルと時間推論の深層：Gemini
 emoji: "🧠"
 type: "tech"
 topics: ["llm", "ai", "nlp", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/llm/llm-mini-nano-temporal-reasoning"
 ---
 

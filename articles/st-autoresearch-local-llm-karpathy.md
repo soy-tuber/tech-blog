@@ -3,7 +3,7 @@ title: "KarpathyのautoresearchをローカルLLMで動かす — コスト$0の
 emoji: "🔬"
 type: "tech"
 topics: ["LLM", "機械学習", "GPU", "Python", "ollama"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/autoresearch-local-llm-karpathy"
 ---
 

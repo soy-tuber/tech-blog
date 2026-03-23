@@ -3,7 +3,7 @@ title: "WSL2でsystemdサービスを使いvLLM・Flask・cronを自動起動す
 emoji: "🔧"
 type: "tech"
 topics: ["python", "devtools", "cli", "productivity"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/dev-tool/wsl2-systemd-services"
 ---
 

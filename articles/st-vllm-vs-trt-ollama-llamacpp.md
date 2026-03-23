@@ -3,7 +3,7 @@ title: "vLLM vs TensorRT-LLM vs Ollama vs llama.cpp — RTX 5090で選ぶ推論�
 emoji: "🔧"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/gpu-inference/vllm-vs-trt-ollama-llamacpp"
 ---
 

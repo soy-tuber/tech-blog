@@ -3,7 +3,7 @@ title: "Minecraft NPCにローカルLLMで脳を実装 — Nemotron + Mineflayer
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/local-llm-minecraft"
 ---
 

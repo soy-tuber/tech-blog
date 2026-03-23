@@ -3,7 +3,7 @@ title: "Systemdの開発者について"
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/nemotron-systemd-creator"
 ---
 

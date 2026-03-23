@@ -3,7 +3,7 @@ title: "Gemini APIで会話データを資産化 — 履歴エクスポート・
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/mega-gemini-google"
 ---
 

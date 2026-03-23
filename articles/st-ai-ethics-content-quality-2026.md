@@ -3,7 +3,7 @@ title: "AIとコンテンツの品質問題：小説の撤回、EnshittifAIcatio
 emoji: "🤖"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/ai-ethics-content-quality-2026"
 ---
 

@@ -3,7 +3,7 @@ title: "Flutter WebアプリをPWA化する方法"
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/nemotron-flutter-pwa-tips"
 ---
 

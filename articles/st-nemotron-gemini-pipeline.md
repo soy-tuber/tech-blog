@@ -3,7 +3,7 @@ title: "ローカル×クラウドLLM 2段階パイプライン — Nemotron + G
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/nemotron-gemini-pipeline"
 ---
 

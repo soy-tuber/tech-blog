@@ -3,7 +3,7 @@ title: "PatentLLMにStripe Checkout課金を実装した話"
 emoji: "🔧"
 type: "tech"
 topics: ["webdev", "fastapi", "infrastructure", "cloudflare"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/web-infra/patentllm-stripe"
 ---
 

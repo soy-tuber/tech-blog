@@ -3,7 +3,7 @@ title: "AI時代のセキュリティとOSS：Trivyの侵害、GoogleとCloudfla
 emoji: "🤖"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/ai-era-security-oss-updates-2026"
 ---
 

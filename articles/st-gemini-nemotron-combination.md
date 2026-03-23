@@ -3,7 +3,7 @@ title: "Gemini 2.5 Flash × Nemotron 9B — クラウドLLMとローカルLLMの
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/gemini-nemotron-combination"
 ---
 

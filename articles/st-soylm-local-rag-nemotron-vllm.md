@@ -3,7 +3,7 @@ title: "ローカルRAGツールをNemotron + vLLM + Tool Callingで構築した
 emoji: "🔍"
 type: "tech"
 topics: ["LLM", "RAG", "vLLM", "GPU", "Python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/soylm-local-rag-nemotron-vllm"
 ---
 

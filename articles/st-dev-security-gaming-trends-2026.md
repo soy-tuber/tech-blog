@@ -3,7 +3,7 @@ title: "開発者セキュリティとAI業界の潮流：Langflow脆弱性、Ca
 emoji: "🔧"
 type: "tech"
 topics: ["python", "\u958b\u767a\u74b0\u5883", "cli", "vscode"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/news/dev-tool/dev-security-gaming-trends-2026"
 ---
 

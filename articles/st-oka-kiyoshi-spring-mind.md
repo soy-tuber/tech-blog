@@ -3,7 +3,7 @@ title: "「やる気」に頼るのをやめると、才能は開花する。天
 emoji: "🔧"
 type: "tech"
 topics: ["essay", "programming"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/other/oka-kiyoshi-spring-mind"
 ---
 

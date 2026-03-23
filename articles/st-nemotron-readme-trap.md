@@ -3,7 +3,7 @@ title: "READMEを読まない開発者に襲う“幻想の罠”――Claude Co
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/nemotron-readme-trap"
 ---
 

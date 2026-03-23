@@ -3,7 +3,7 @@ title: "2026年、ローカルAIが進化！オフラインデバイスからRTX
 emoji: "🔥"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/gpu-inference/local-ai-edge-inference-2026"
 ---
 

@@ -3,7 +3,7 @@ title: "RTX 40シリーズでLLM爆速！個人開発者のための推論最適
 emoji: "🔥"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/gpu-inference/rtx40-llm-inference-boost-2026"
 ---
 

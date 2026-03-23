@@ -3,7 +3,7 @@ title: "IP事務所向けSaaS「PatentLLM」の課金システムをStripe Check
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/nemotron-patentllm-stripe"
 ---
 

@@ -3,7 +3,7 @@ title: "google-generativeai → google-genai 移行ガイド"
 emoji: "🔧"
 type: "tech"
 topics: ["python", "devtools", "cli", "productivity"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/dev-tool/google-genai-sdk-migration"
 ---
 

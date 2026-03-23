@@ -3,7 +3,7 @@ title: "Gemini Context Cachingで大規模ドキュメント分析のAPI費用�
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/gemini-context-cache"
 ---
 

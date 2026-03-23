@@ -3,7 +3,7 @@ title: "AIとクラウドインフラの融合：Cloudflare Workers AI、Project
 emoji: "🌐"
 type: "tech"
 topics: ["fastapi", "cloudflare", "infrastructure", "linux"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/news/web-infra/cloud-ai-infra-agent-nomad"
 ---
 

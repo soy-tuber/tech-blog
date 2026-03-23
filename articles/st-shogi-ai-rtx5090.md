@@ -3,7 +3,7 @@ title: "RTX 5090で将棋AI — TensorRT FP8量子化とFloodgate実戦の記録
 emoji: "🔧"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/gpu-inference/shogi-ai-rtx5090"
 ---
 

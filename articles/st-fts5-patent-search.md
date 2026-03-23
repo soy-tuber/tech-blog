@@ -3,7 +3,7 @@ title: "FTS5で354万件の特許データを高速検索する"
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/fts5-patent-search"
 ---
 

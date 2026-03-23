@@ -3,7 +3,7 @@ title: "オープンソースAIの波とセキュリティへの投資：Qwen、
 emoji: "🧠"
 type: "tech"
 topics: ["llm", "ai", "nlp", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/news/llm/open-source-ai-security-invest"
 ---
 

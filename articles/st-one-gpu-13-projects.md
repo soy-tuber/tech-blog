@@ -3,7 +3,7 @@ title: "RTX 5090 1枚で13プロジェクトを回す個人開発者のポート
 emoji: "🔧"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/gpu-inference/one-gpu-13-projects"
 ---
 

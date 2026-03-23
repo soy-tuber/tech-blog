@@ -3,7 +3,7 @@ title: "PythonでGoogleドキュメントをAIに読み込ませる — Drive AP
 emoji: "🔧"
 type: "tech"
 topics: ["python", "devtools", "cli", "productivity"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/dev-tool/note_export_011"
 ---
 

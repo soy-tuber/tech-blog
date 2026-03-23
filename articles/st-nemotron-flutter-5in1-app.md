@@ -3,7 +3,7 @@ title: "ローカルLLMとFlutterで実現！「秘密データを活かす」5-
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/nemotron-flutter-5in1-app"
 ---
 

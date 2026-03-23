@@ -3,7 +3,7 @@ title: "判例PDFをRAGで検索する — Gemini + SQLite FTS5による法務AI
 emoji: "🔧"
 type: "tech"
 topics: ["python", "devtools", "cli", "productivity"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/dev-tool/hanrei-rag"
 ---
 

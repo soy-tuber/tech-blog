@@ -3,7 +3,7 @@ title: "Nemotron 9BをvLLMで動かしOpenAI互換APIで使う実践ガイド"
 emoji: "🔧"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/gpu-inference/nemotron-vllm-guide"
 ---
 

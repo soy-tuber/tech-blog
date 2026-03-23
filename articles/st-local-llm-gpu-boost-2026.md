@@ -3,7 +3,7 @@ title: "今日のローカルLLM加速術：ik_llama.cpp高速化、Tinybox、NV
 emoji: "🔥"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/gpu-inference/local-llm-gpu-boost-2026"
 ---
 

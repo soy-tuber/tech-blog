@@ -3,7 +3,7 @@ title: "LoRAもFTも要らない時代：蒸留済みモデルとどう向き合
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/why-unsloth-unnecessary"
 ---
 

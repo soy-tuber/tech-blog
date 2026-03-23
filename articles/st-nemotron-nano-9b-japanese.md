@@ -3,7 +3,7 @@ title: "Nemotron 9B日本語をローカルで動かす — Mamba SSM・Thinking
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/ai/nemotron-nano-9b-japanese"
 ---
 

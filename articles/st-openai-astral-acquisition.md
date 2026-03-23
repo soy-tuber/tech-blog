@@ -3,7 +3,7 @@ title: "OpenAIがAstral（uv / Ruff）を買収 — その意味を推論する"
 emoji: "🔧"
 type: "tech"
 topics: ["python", "devtools", "cli", "productivity"]
-published: true
+published: false
 canonical_url: "https://media.patentllm.org/blog/dev-tool/openai-astral-acquisition"
 ---
 
