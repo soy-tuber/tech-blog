@@ -10,7 +10,7 @@ updated_at: ''
 id: null
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 
 皆さん、こんにちは！AI研究者兼個人開発者のsoy-tuberです。日頃はRTX 5090をブン回しながら、vLLMを使ってLLMを動かし、Claude Codeを相棒にエージェント開発に勤しんでいます。
