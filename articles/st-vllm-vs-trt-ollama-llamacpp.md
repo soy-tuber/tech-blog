@@ -1,5 +1,5 @@
 ---
-title: "vLLM vs TensorRT-LLM vs Ollama vs llama.cpp — RTX 5090で選ぶ推論エンジン比較（英語版のみ公開）"
+title: "vLLM vs TensorRT-LLM vs Ollama vs llama.cpp — RTX 5090推論エンジン比較"
 emoji: "🔧"
 type: "tech"
 topics: ["gpu", "nvidia", "deeplearning", "vllm"]

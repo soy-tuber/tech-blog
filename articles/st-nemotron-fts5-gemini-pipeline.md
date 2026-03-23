@@ -1,5 +1,5 @@
 ---
-title: "Global MCPにsqliteサーバーを追加したものの、PatentLLM分析で0件ヒット！FTS5のキーワード調整とGemini分析の連携で解決"
+title: "MCP×SQLite分析で0件ヒット！FTS5キーワード調整とGemini連携で解決"
 emoji: "🔧"
 type: "tech"
 topics: ["ai", "machinelearning", "llm", "python"]
