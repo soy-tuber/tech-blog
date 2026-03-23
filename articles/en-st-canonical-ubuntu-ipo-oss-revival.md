@@ -3,7 +3,7 @@ title: "Canonical Eyes IPO — Ubuntu Proves the Revival of Linux and OSS"
 emoji: "🐧"
 type: "tech"
 topics: ["Linux", "Ubuntu", "OpenSource", "IPO", "AI"]
-published: false
+published: true
 canonical_url: "https://media.patentllm.org/en/blog/oss/canonical-ubuntu-ipo-linux-oss-revival"
 ---
 

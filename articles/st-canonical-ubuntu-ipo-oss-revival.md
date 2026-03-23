@@ -3,7 +3,7 @@ title: "Canonical上場へ──Ubuntuが証明する「LinuxとOSSの復権」"
 emoji: "🐧"
 type: "tech"
 topics: ["Linux", "Ubuntu", "OSS", "IPO", "AI"]
-published: false
+published: true
 canonical_url: "https://media.patentllm.org/blog/oss/canonical-ubuntu-ipo-linux-oss-revival"
 ---
 

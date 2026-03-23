@@ -10,7 +10,7 @@ updated_at: ''
 id: null
 organization_url_name: null
 slide: false
-ignorePublish: true
+ignorePublish: false
 ---
 
 皆さん、こんにちは！個人開発者・AI研究者のsoy-tuberです。

@@ -3,7 +3,7 @@ title: "コント：Claude Codeに取り憑かれた男"
 emoji: "🔧"
 type: "tech"
 topics: ["python", "devtools", "cli", "productivity"]
-published: false
+published: true
 canonical_url: "https://media.patentllm.org/blog/dev-tool/claude-code-conte"
 ---
 
