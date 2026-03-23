@@ -3,7 +3,7 @@ title: "クラウドとAIの新たな連携：Cloudflare Workers AI、GoogleのO
 emoji: "🌐"
 type: "tech"
 topics: ["fastapi", "cloudflare", "infrastructure", "linux"]
-published: false
+published: true
 canonical_url: "https://media.patentllm.org/blog/web-infra/cloud-ai-cloudflare-google-wordpress"
 ---
 
