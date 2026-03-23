@@ -3,7 +3,7 @@ title: "AIエージェント開発最前線：Claude HUD、OpenAIの監視、Ast
 emoji: "🔧"
 type: "tech"
 topics: ["python", "\u958b\u767a\u74b0\u5883", "cli", "vscode"]
-published: false
+published: true
 canonical_url: "https://media.patentllm.org/blog/dev-tool/ai-agent-dev-ecosystem-2026"
 ---
 
