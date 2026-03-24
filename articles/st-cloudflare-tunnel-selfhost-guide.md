@@ -3,7 +3,7 @@ title: "Cloudflare Tunnel実践入門：自宅AIサーバーをポート開放�
 emoji: "🔧"
 type: "tech"
 topics: ["webdev", "fastapi", "infrastructure", "cloudflare"]
-published: false
+published: true
 canonical_url: "https://media.patentllm.org/blog/web-infra/080_premium"
 ---
 
