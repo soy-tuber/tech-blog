@@ -1,0 +1,77 @@
+---
+layout: default
+title: "/通喵千問 Tech Blog"
+---
+
+<style>
+.tabs { display: flex; gap: 0; border-bottom: 2px solid #333; }
+.tabs a { padding: 8px 20px; text-decoration: none; color: #555; font-weight: bold; border: 2px solid transparent; border-bottom: none; border-radius: 6px 6px 0 0; margin-bottom: -2px; }
+.tabs a.active { color: #333; background: #fafafa; border-color: #333; }
+.panel { display: none; }
+.panel:target { display: block; }
+.panel:target ~ .panel-default { display: none; }
+.article-item { margin: 12px 0; }
+.article-item a { font-size: 1.05em; }
+.tag { background: #eee; padding: 2px 8px; border-radius: 3px; font-size: 0.8em; margin-right: 4px; }
+.count { font-size: 0.85em; color: #666; }
+.header-block { margin-bottom: 24px; }
+</style>
+
+{% assign sorted = site.articles | sort: "date" | reverse %}
+{% assign ja_articles = "" | split: "" %}
+{% assign en_articles = "" | split: "" %}
+{% for article in sorted %}
+  {% if article.devto_id %}
+    {% assign en_articles = en_articles | push: article %}
+  {% else %}
+    {% assign ja_articles = ja_articles | push: article %}
+  {% endif %}
+{% endfor %}
+
+<div class="header-block">
+<h1>/通喵千問 Tech Blog</h1>
+<p>Patent x AI technical insights — GPU推論、ローカルLLM、開発ツールの技術知見を発信</p>
+<p><strong>Main site</strong>: <a href="https://media.patentllm.org/">media.patentllm.org</a> | <a href="https://media.patentllm.org/en/">English</a></p>
+</div>
+
+<div id="en" class="panel">
+<nav class="tabs">
+  <a href="#ja">日本語 <span class="count">({{ ja_articles.size }})</span></a>
+  <a href="#en" class="active">English <span class="count">({{ en_articles.size }})</span></a>
+</nav>
+{% for article in en_articles %}
+<div class="article-item">
+  <a href="{{ article.url | relative_url }}">{{ article.title }}</a><br>
+  {% if article.topics %}{% for t in article.topics %}<span class="tag">{{ t }}</span>{% endfor %}{% endif %}
+  {% if article.canonical_url %}<a href="{{ article.canonical_url }}" style="font-size:0.8em;">Original →</a>{% endif %}
+</div>
+{% endfor %}
+</div>
+
+<div id="ja" class="panel">
+<nav class="tabs">
+  <a href="#ja" class="active">日本語 <span class="count">({{ ja_articles.size }})</span></a>
+  <a href="#en">English <span class="count">({{ en_articles.size }})</span></a>
+</nav>
+{% for article in ja_articles %}
+<div class="article-item">
+  <a href="{{ article.url | relative_url }}">{{ article.title }}</a><br>
+  {% if article.topics %}{% for t in article.topics %}<span class="tag">{{ t }}</span>{% endfor %}{% endif %}
+  {% if article.canonical_url %}<a href="{{ article.canonical_url }}" style="font-size:0.8em;">Original →</a>{% endif %}
+</div>
+{% endfor %}
+</div>
+
+<div class="panel-default">
+<nav class="tabs">
+  <a href="#ja" class="active">日本語 <span class="count">({{ ja_articles.size }})</span></a>
+  <a href="#en">English <span class="count">({{ en_articles.size }})</span></a>
+</nav>
+{% for article in ja_articles %}
+<div class="article-item">
+  <a href="{{ article.url | relative_url }}">{{ article.title }}</a><br>
+  {% if article.topics %}{% for t in article.topics %}<span class="tag">{{ t }}</span>{% endfor %}{% endif %}
+  {% if article.canonical_url %}<a href="{{ article.canonical_url }}" style="font-size:0.8em;">Original →</a>{% endif %}
+</div>
+{% endfor %}
+</div>
